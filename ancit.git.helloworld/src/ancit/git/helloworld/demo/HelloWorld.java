@@ -9,7 +9,8 @@ public class HelloWorld {
 			
 		}
 		System.out.println("Git Changed");
-
+      GoodBye gb = new GoodBye();
+      
 	}
 
 }
